@@ -1,0 +1,294 @@
+
+.a{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	left: 10px;
+	top: 10px;
+	background-color: #000000 ;
+	border:10px
+}
+
+.b{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.c{
+	position: absolute;
+	left: 75px;
+	top: -75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.d{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.e{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.f{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.g{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.h{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.i{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	top: 160px;
+	left: 10px;
+	background-color: #000000;
+	border:0px;
+}
+
+.j{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.k{
+	position: absolute;
+	left: 75px;
+	top: -75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.l{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.m{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.n{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.o{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.p{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.q{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	top: 310px;
+	left: 10px;
+	background-color: #000000;
+	border:0px;
+}
+
+.r{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.s{
+	position: absolute;
+	left: 75px;
+	top: -75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.t{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.u{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.v{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.w{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.x{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.y{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	top: 460px;
+	left: 10px;
+	background-color: #000000;
+	border:0px;
+}
+
+.z{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.aa{
+	position: absolute;
+	left: 75px;
+	top: -75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.bb{
+	position: absolute;
+	left: 75px;
+	top: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.cc{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.dd{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.ee{
+	position: absolute;
+	top: -75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+.ff{
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 75px;
+	height: 75px;
+	background: #000000
+}
+
+
